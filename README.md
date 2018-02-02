@@ -1,2 +1,2 @@
-# ReinhardttheBot
-Bot Discord
+# ReinhardtTheBot
+Here comes Reinhardt :rein:
