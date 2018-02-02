@@ -1,0 +1,2 @@
+# ReinhardttheBot
+Bot Discord
